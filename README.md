@@ -1,4 +1,10 @@
-# ESP DC1
+更改保存电量时间为一小时，避免频繁写入flash
+
+https://github.com/fffonion/esp_dc1
+
+https://github.com/duchenpaul/esp_dc1
+
+\# ESP DC1
 **斐讯DC1智能排插个人固件.**
 
 ## WHY
